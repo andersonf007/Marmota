@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/04/2017, 14:25:01
+    Author     : ander
+*/
+
+#pontos {
+  position: absolute; 
+  /*position: relative;
+    position: fixed*/
+  top: 2.5%;
+  right: 10%;
+  font-size: 30px;
+  font-family: Helvetica;
+  font-weight: 600;
+}
